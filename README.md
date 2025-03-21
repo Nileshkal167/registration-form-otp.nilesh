@@ -1,1 +1,1 @@
-regisration-form with time valid OTP on email.
+regisration-form with time valid OTP on email Id.
